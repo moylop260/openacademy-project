@@ -29,10 +29,6 @@ msgstr ""
 "                </p>\n"
 "            "
 
-#. module: openacademy
-#: view:openacademy.course:openacademy.course_form_view
-msgid "About"
-msgstr "Sobre"
 
 #. module: openacademy
 #: field:openacademy.session,active:0
@@ -90,12 +86,6 @@ msgstr "Confirmar"
 #: selection:openacademy.session,state:0
 msgid "Confirmed"
 msgstr "Confirmado"
-
-#. module: openacademy
-#: model:ir.actions.act_window,name:openacademy.contact_list_action
-#: model:ir.ui.menu,name:openacademy.contact_menu
-msgid "Contacts"
-msgstr "Contacts"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_tree_view
