@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-10 13:20+0000\n"
-"PO-Revision-Date: 2016-12-06 07:26+0000\n"
+"PO-Revision-Date: 2016-12-06 15:46+0000\n"
 "Last-Translator: Moisés <moylop260@vauxoo.com>\n"
 "Language-Team: Spanish <http://weblate.vauxoo.com/projects/openacademy-"
 "project-master/openacademy/es/>\n"
@@ -31,7 +31,7 @@ msgstr "<p class=\"oe_view_nocontent_create\">Crea el primer curso\n"
 #: code:addons/openacademy/model/openacademy_session.py:79
 #, python-format
 msgid "A session's instructor can't be an attendee"
-msgstr "A session's instructor can't be an attendee"
+msgstr "Un instructor de sesión no puede ser asistente"
 
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
@@ -483,4 +483,3 @@ msgstr "o"
 #: view:website:openacademy.report_session_view
 msgid "to"
 msgstr "to"
-
