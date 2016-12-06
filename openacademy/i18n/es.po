@@ -113,19 +113,19 @@ msgid "Contacts"
 msgstr "Contacts"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:39
+#: code:addons/openacademy/model/openacademy_course.py:40
 #, python-format
 msgid "Copy of {}"
 msgstr "Copy of {}"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:41
+#: code:addons/openacademy/model/openacademy_course.py:42
 #, python-format
 msgid "Copy of {} ({})"
 msgstr "Copy of {} ({})"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:37
+#: code:addons/openacademy/model/openacademy_course.py:38
 #, python-format
 msgid "Copy of {}%"
 msgstr "Copy of {}%"
@@ -283,6 +283,16 @@ msgid "My Courses"
 msgstr "My Courses"
 
 #. module: openacademy
+#: field:openacademy.course,new_field:0
+msgid "My New Field"
+msgstr "My New Field"
+
+#. module: openacademy
+#: help:openacademy.course,new_field:0
+msgid "My new help"
+msgstr "My new help"
+
+#. module: openacademy
 #: field:openacademy.session,name:0
 msgid "Name"
 msgstr "Nombre"
@@ -424,7 +434,7 @@ msgid "Taken seats"
 msgstr "Taken seats"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:29
+#: code:addons/openacademy/model/openacademy_course.py:30
 #: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The course title must be unique"
@@ -437,7 +447,7 @@ msgid "The number of available seats may not be negative"
 msgstr "The number of available seats may not be negative"
 
 #. module: openacademy
-#: code:addons/openacademy/model/openacademy_course.py:25
+#: code:addons/openacademy/model/openacademy_course.py:26
 #: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The title of the course should not be the description"
