@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-10 13:20+0000\n"
-"PO-Revision-Date: 2016-12-04 01:46+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-12-06 07:26+0000\n"
+"Last-Translator: Moisés <moylop260@vauxoo.com>\n"
 "Language-Team: Spanish <http://weblate.vauxoo.com/projects/openacademy-"
-"project-8-0/openacademy/es/>\n"
+"project-master/openacademy/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -139,7 +139,7 @@ msgstr "Curso"
 #. module: openacademy
 #: view:openacademy.course:openacademy.course_form_view
 msgid "Course Form"
-msgstr "Course Form"
+msgstr "Forma de Curso"
 
 #. module: openacademy
 #: view:board.board:openacademy.board_session_form
@@ -154,7 +154,7 @@ msgstr "Cursos"
 #: field:openacademy.session,create_uid:0
 #: field:openacademy.wizard,create_uid:0
 msgid "Created by"
-msgstr "Created by"
+msgstr "Creado por"
 
 #. module: openacademy
 #: field:openacademy.course,create_date:0
