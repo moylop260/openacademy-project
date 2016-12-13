@@ -373,9 +373,8 @@ msgstr "Reporte de Sesión"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.session_tree_view
-#, fuzzy
 msgid "Session Tree"
-msgstr "Vista Árbol de sesiones"
+msgstr "Session Tree"
 
 #. module: openacademy
 #: view:openacademy.session:openacademy.view_openacad_session_kanban
