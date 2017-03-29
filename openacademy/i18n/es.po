@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-10 13:20+0000\n"
-"PO-Revision-Date: 2017-03-29 16:24+0000\n"
+"PO-Revision-Date: 2017-03-29 16:28+0000\n"
 "Last-Translator: Jesus Zapata <jesus@vauxoo.com>\n"
 "Language-Team: Spanish <http://weblate.vauxoo.com/projects/openacademy-"
 "project-master/openacademy/es/>\n"
@@ -438,7 +438,7 @@ msgstr "Árbol de sesión"
 #: sql_constraint:openacademy.course:0
 #, python-format
 msgid "The course title must be unique"
-msgstr "The course title must be unique"
+msgstr "El título del curso debe ser único"
 
 #. module: openacademy
 #: code:addons/openacademy/model/openacademy_session.py:63
